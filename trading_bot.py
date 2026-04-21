@@ -18,11 +18,11 @@ from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 # ══════════════════════════════════════════
 #  CONFIGURATION — à remplir
 # ══════════════════════════════════════════
-ALPACA_KEY    = "VOTRE_ALPACA_KEY"
-ALPACA_SECRET = "VOTRE_ALPACA_SECRET"
+ALPACA_KEY    = "PKKLWDDI4MOBY6UOY6SM2ASCI4"
+ALPACA_SECRET = "6QCFcom13fao3wcb5gjYAKnKAGJiF1TkejLX6YDT2qne"
 BASE_URL      = "https://paper-api.alpaca.markets"
 
-TELEGRAM_TOKEN   = "NOUVEAU_TOKEN_APRES_REVOCATION"  # ⚠️ Mets ton nouveau token ici
+TELEGRAM_TOKEN   = "8698977538:AAGRX5JVKgCmRUuEfGNQfQC9knY5kqONca8"  # ⚠️ Mets ton nouveau token ici
 TELEGRAM_CHAT_ID = "7781677105"                       # ✅ Ton Chat ID
 
 # Paramètres de la stratégie
